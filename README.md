@@ -13,6 +13,6 @@
 - MySQL
 
 ## Contributor
-- [Hadad Al Akbar](https://github.com/qweersq)
-- [Muhammad Reza Faturrahman](https://github.com/rezafatur)
-- [Bayu Ferdiman](https://github.com/frdmn12)
+[![](https://github.com/qweersq.png?size=50)](https://github.com/qweersq)
+[![](https://github.com/rezafatur.png?size=50)](https://github.com/rezafatur)
+[![](https://github.com/frdmn12.png?size=50)](https://github.com/frdmn12)
